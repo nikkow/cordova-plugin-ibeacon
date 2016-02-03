@@ -35,7 +35,7 @@
 ### Installation
 
 ```
-cordova plugin add https://github.com/petermetz/cordova-plugin-ibeacon.git
+cordova plugin add https://github.com/nikkow/cordova-plugin-ibeacon.git --save
 ```
 
 ### Usage
